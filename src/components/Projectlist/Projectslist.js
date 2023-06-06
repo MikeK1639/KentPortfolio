@@ -30,43 +30,12 @@ function Projectlist() {
               />
             </Col>
 
-            <Col md={4} className="project-card">
-              <ProjectCard
-                // imgPath={netfliximage}
-                isBlog={false}
-                title=""
-                description=""
-              />
-            </Col>
+            
 
-            <Col md={4} className="project-card">
-              <ProjectCard
-                // imgPath={gridlinesbuilders}
-                isBlog={false}
-                title=""
-                description=""
-              />
-            </Col>
+          
+           
 
-            <Col md={4} className="project-card">
-              <ProjectCard
-                // imgPath={charlespizza}
-                isBlog={false}
-                title=""
-                description=""
-              />
-            </Col>
-
-            <Col md={4} className="project-card">
-              <ProjectCard
-                // imgPath={todolist}
-                isBlog={false}
-                title=""
-                description=" "
-                ghLink=""
-
-              />
-            </Col>
+           
           </Row>
         </Container>
       </Container>
