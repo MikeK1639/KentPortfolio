@@ -32,7 +32,15 @@ function Projectlist() {
 
             
 
-          
+            <Col md={4} className="project-card">
+              <ProjectCard
+                // imgPath={olximage}
+                isBlog={false}
+                title="Persuade Me"
+                description="This is a debate platform that can be used to settle debates as well as have conversation on user given topics"
+                ghLink="https://https://github.com/werthird/Persuade-Me
+              />
+            </Col>
            
 
            
